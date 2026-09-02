@@ -1,9 +1,10 @@
-STEP-0
+* STEP-0
   - Add a file to git
-    git add <file>
+      git add <file>
   - Commit staged file
-    git commit -m "PREFIX: message"
-STEP-1
+      git commit -m "PREFIX: message"
+* STEP-1
   - Update a modified file
-STEP-2
+
+* STEP-2
   - Check diff on a file
