@@ -3,3 +3,7 @@ STEP-0
     git add <file>
   - Commit staged file
     git commit -m "PREFIX: message"
+STEP-1
+  - Update a modified file
+STEP-2
+  - Check diff on a file
